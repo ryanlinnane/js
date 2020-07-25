@@ -1,19 +1,26 @@
 {
   "name": "@ryanlinnane/js",
-  "version": "1.0.1",
+  "version": "1.2.2",
   "prepublish": "tsc",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
   },
-  "keywords": [],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanlinnane/js.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@types/node": "^14.0.26",
-    "typescript": "^3.9.7"
-  }
+  "bugs": {
+    "url": "https://github.com/ryanlinnane/js/issues"
+  },
+  "homepage": "https://github.com/ryanlinnane/js#readme"
 }

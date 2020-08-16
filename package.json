@@ -1,5 +1,5 @@
 {
-  "name": "@ryanlinnane/js",
+  "name": "@ryanlinnane/ts-util",
   "version": "1.2.2",
   "prepublish": "tsc",
   "description": "",
@@ -16,12 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanlinnane/js.git"
+    "url": "git+https://github.com/ryanlinnane/ts-util.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ryanlinnane/js/issues"
-  },
-  "homepage": "https://github.com/ryanlinnane/js#readme"
+  "license": "ISC"
 }
